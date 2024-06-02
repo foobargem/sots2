@@ -1,8 +1,0 @@
-version: 202406022100
-language: korean
-books:
-- title: 예수님의 사람1
-  url: https://raw.githubusercontent.com/foobargem/sots2/main/data/books/ko/person-of-jesus-01.yaml
-- title: 예수님의 사람2
-  url: https://raw.githubusercontent.com/foobargem/sots2/main/data/books/ko/person-of-jesus-02.yaml
-
